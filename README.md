@@ -1,1 +1,1 @@
-# rsp-game
+# 10-py-projects
